@@ -1,3 +1,4 @@
 application.log
 *.log
 README.md.orig
+*.orig
